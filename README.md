@@ -45,9 +45,6 @@
   </tr>
 </table>
 
-<div align="center">
-   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=varunweb6&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</div>
 ---
 
 ### 🏆 GitHub Trophies
