@@ -122,7 +122,6 @@ const dev3web = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev3-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev3-web&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
@@ -170,21 +169,11 @@ const dev3web = {
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Web Applications with Next.js and FastAPI](https://dev.to/dev3web/building-scalable-web-apps)
-- [AI Integration Patterns for Modern Web Development](https://dev.to/dev3web/ai-integration-patterns)
-- [Microservices Architecture: Best Practices and Pitfalls](https://dev.to/dev3web/microservices-best-practices)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🎵 Now Playing
 
 <div align="center">
   <a href="https://open.spotify.com/user/your-spotify-id">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-id&count=1&unique=true" alt="Spotify recently played"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xrk7iaf1vmk08jr4fevjd2yjk&count=1&unique=true" alt="Spotify recently played"/>
   </a>
 </div>
 
@@ -243,10 +232,6 @@ I believe in writing **clean, maintainable code** that tells a story. My approac
 ## 🌟 Fun Facts & Interests
 
 <table>
-  <tr>
-    <td>🌍</td>
-    <td>I've contributed to open source projects in <strong>15+ countries</strong></td>
-  </tr>
   <tr>
     <td>☕</td>
     <td>Coffee enthusiast - I can't code without my morning brew</td>
