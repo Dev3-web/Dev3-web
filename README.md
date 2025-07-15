@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varunweb6&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=varunweb6.visitor-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Dev-3web&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=Dev3-web.visitor-badge" />
 </p>
 
 ---
@@ -55,10 +55,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=varunweb6&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Dev3-web&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunweb6&theme=tokyonight" alt="GitHub Streak"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev3-web&theme=tokyonight" alt="GitHub Streak"/>
     </td>
   </tr>
 </table>
@@ -67,14 +67,14 @@
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunweb6&theme=tokyo-night&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev3-web&theme=tokyo-night&area=true" alt="Activity Graph"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varunweb6&theme=algolia&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dev3-web&theme=algolia&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 ---
