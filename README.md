@@ -156,29 +156,6 @@ const dev3web = {
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Dev3-web/ai-saas-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev3-web&repo=ai-saas-dashboard&theme=tokyonight" alt="AI SaaS Dashboard"/>
-  </a>
-  <a href="https://github.com/Dev3-web/microservices-architecture">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev3-web&repo=microservices-architecture&theme=tokyonight" alt="Microservices Architecture"/>
-  </a>
-</div>
-
----
-
-## 🎵 Now Playing
-
-<div align="center">
-  <a href="https://open.spotify.com/user/your-spotify-id">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xrk7iaf1vmk08jr4fevjd2yjk&count=1&unique=true" alt="Spotify recently played"/>
-  </a>
-</div>
-
----
-
 ## 📚 Learning Journey
 
 <details>
