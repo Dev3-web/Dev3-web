@@ -34,19 +34,6 @@ const dev3web = {
 
 ---
 
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev3-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev3-web&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
