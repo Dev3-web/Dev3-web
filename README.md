@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey there! I'm Varun Sharma 👋
+# Hello there! I'm Varun Sharma 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Cloud+Architecture+Specialist;Open+Source+Contributor;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 
